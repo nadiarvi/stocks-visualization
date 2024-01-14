@@ -9,7 +9,7 @@ Before using the code, ensure that you have the OpenAI API key set in the code:
 
 ```python
 os.environ['OPENAI_API_KEY'] = 'YOUR_OPENAI_API_KEY'
-
+```
 
 ## Disclaimer
 Please be cautious when deleting assistants and files, as this action is irreversible.
