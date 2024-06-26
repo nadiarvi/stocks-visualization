@@ -1,4 +1,4 @@
-# Assistant with Files Exercise
+# Assistant with Files
 
 ## Introduction
 
